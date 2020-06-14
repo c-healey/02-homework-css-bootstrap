@@ -8,16 +8,8 @@ This is a class exercise in learning bootstrap and part of a full stack flex boo
 
 ## Installation
 
-OS X & Linux:
-
 ```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
+git clone
 ```
 
 ## Usage example
@@ -78,10 +70,14 @@ Submit your homework on BCS with the github repo and live URL
 ### How to 'launch' your page
 
 - Github
+
   - click on your image at the top right of page and select 'Your repositories'
   - click on your homework repo
   - click 'Settings'
   - scroll down to GitHub Pages and select 'master branch' as the source
+  - the setting page will refresh, scroll down to GitHub Pages and click on the live site URL.
+
+  Cogratulations, you have a live site to share with firends and family.
 
 ## How to access your Homework assignment and starter files
 
