@@ -28,7 +28,7 @@ These pages can be used as an example of how to complete your homework assignmen
 
 ## Development setup
 
-This example is here to help you learn CSS and bootstrap. I encourage ou to add the bonus features. It should be used as a suppliment to the homework files on gitlab and documentation on https://getbootstrap.com.
+This example is here to help you learn CSS and bootstrap. I encourage you to add the bonus features. It should be used as a suppliment to the homework files on gitlab and documentation on https://getbootstrap.com.
 Fonts can be found on https://fonts.google.com
 copyright free images on https://unsplash.com or you may use your own.
 There's a nice README.md template on https://github.com/dbader/readme-template
@@ -68,4 +68,4 @@ Catherine Healey – [@cfhealey](https://twitter.com/cfhealey) – cathy.healey@
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[https://github.com/c-healey/02-homework-css-bootstrap/](https://github.com/c-healey/)
+[https://c-healey.github.io/02-homework-css-bootstrap/](https://c-healey.github.io/02-homework-css-bootstrap/)
