@@ -19,6 +19,9 @@ h1 {
 hr {
   margin-bottom: 2rem;
 }
+p + p {
+  text-indent: 1.5em;
+}
 
 .navbar-light .navbar-brand {
   background-color: var(--primary-2);
