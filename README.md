@@ -28,10 +28,15 @@ These pages can be used as an example of how to complete your homework assignmen
 
 ## Development setup
 
-This example is here to help you learn CSS and bootstrap. I encourage you to add the bonus features. It should be used as a suppliment to the homework files on gitlab and documentation on https://getbootstrap.com.
-Fonts can be found on https://fonts.google.com
-copyright free images on https://unsplash.com or you may use your own.
-There's a nice README.md template on https://github.com/dbader/readme-template
+This example is an aid and supplement to homework files to help you learn CSS and bootstrap. I encourage you to add the bonus features in the assignment.
+
+- Homework assignment: pull from the course gitlab repo
+- Bootstrap documentation: https://getbootstrap.
+
+* Fonts can be found on https://fonts.google.com
+* copyright free images on https://unsplash.com or you may use your own.
+* README.md template on https://github.com/dbader/readme-template
+* Tutorial on implementing sticky footer with flexbox on CSSTricks https://css-tricks.com/couple-takes-sticky-footer/
 
 ### Minimum Requirements for a passing grade (copied from the homework readme)
 
@@ -56,6 +61,24 @@ There's a nice README.md template on https://github.com/dbader/readme-template
 ### Bonus
 
 - Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+
+## How to submit your homework
+
+- Github
+  -- Create a Homework-XX Repo (XX = the homework assignment number)
+  -- Select the clone button and copy the git url to your clipboard
+- Terminal
+  -- cd to your homework directory
+  -- git clone (paste in git url)
+
+Now you have an empty local repo to copy the homework starter files into. You should work on your homework in this directory and stage, commit and push often.
+
+## How to access your Homework assignment and starter files
+
+-Terminal
+-- cd to your gitlab coursework repo
+-- git pull
+-- copy starter files to your github homework repo folder.
 
 ## Release History
 
