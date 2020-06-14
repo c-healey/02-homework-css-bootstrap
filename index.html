@@ -9,6 +9,7 @@
       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>Basic Bootstrap Portfolio</title>
   </head>
@@ -16,66 +17,109 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container">
         <a class="navbar-brand" href="#">Catherine Healey</a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto justify-content-end">
-          <li class="nav-item active">
-            <a class="nav-link" href="./index.html"
-              >About <span class="sr-only">(current)</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./portfolio.html">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./contact.html">Contact</a>
-          </li>
-        </ul>
-      </div>
-      </div>
-      
-    </nav>
-    
-    <div class="container">
-      <section class="about-me">
-      <div class="row">
-        <div class="col-md-12">
-          <h1 class="section-title text-uppercase">About</h1>
-          <hr />
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto justify-content-end">
+            <li class="nav-item active">
+              <a class="nav-link" href="./index.html"
+                >About <span class="sr-only">(current)</span></a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./portfolio.html">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html">Contact</a>
+            </li>
+          </ul>
         </div>
       </div>
-  
-      <div class="row">
+    </nav>
+
+    <div class="container">
+      <section class="about-me">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="section-title text-uppercase">About</h1>
+            <hr />
+          </div>
+        </div>
+
+        <div class="row">
           <div class="col-md-6">
-            <img src="./assets/imgs/about-me.jpg" alt="About me image" class="img-fluid mb-4">
+            <img
+              src="./assets/imgs/about-me.jpg"
+              alt="About me image"
+              class="img-fluid mb-4"
+            />
           </div>
           <div class="col-md-6 about-me-text">
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, maxime praesentium ullam est, id ab magnam quibusdam debitis autem dolore quod, placeat consequatur quis? Laudantium sed ex beatae tenetur aliquid!</p>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga necessitatibus repudiandae vel tempore, natus perferendis nulla expedita nam explicabo maxime odio dolores optio aliquam quae consequuntur adipisci ratione, quo consectetur!</p>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, maxime praesentium ullam est, id ab magnam quibusdam debitis autem dolore quod, placeat consequatur quis? Laudantium sed ex beatae tenetur aliquid!</p>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga necessitatibus repudiandae vel tempore, natus perferendis nulla expedita nam explicabo maxime odio dolores optio aliquam quae consequuntur adipisci ratione, quo consectetur!</p>
-           
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Pariatur, maxime praesentium ullam est, id ab magnam quibusdam
+              debitis autem dolore quod, placeat consequatur quis? Laudantium
+              sed ex beatae tenetur aliquid!
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga
+              necessitatibus repudiandae vel tempore, natus perferendis nulla
+              expedita nam explicabo maxime odio dolores optio aliquam quae
+              consequuntur adipisci ratione, quo consectetur!
+            </p>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Pariatur, maxime praesentium ullam est, id ab magnam quibusdam
+              debitis autem dolore quod, placeat consequatur quis? Laudantium
+              sed ex beatae tenetur aliquid!
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga
+              necessitatibus repudiandae vel tempore, natus perferendis nulla
+              expedita nam explicabo maxime odio dolores optio aliquam quae
+              consequuntur adipisci ratione, quo consectetur!
+            </p>
           </div>
         </div>
       </section>
-      </div>
-        
-      
-      
-      
-    
     </div>
+    <footer class="footer mt-auto py-3">
+      <div class="container"><div class="row align-content-center">
+        <div class="col-md-4 d-flex justify-content-end">
+          <div class="social-icon">
+            <a href="https://www.facebook.com/cathy.healey"
+              ><i class="fab fa-facebook-f"></i
+            ></a>
+          </div>
+        </div>
+        <div class="col-md-4 d-flex justify-content-center">
+          <div class="social-icon">
+            <a href="https://twitter.com/cfhealey"
+              ><i class="fab fa-twitter"></i
+            ></a>
+          </div>
+        </div>
+        <div class="col-md-4 d-flex justify-content-start">
+          <div class="social-icon">
+            <a href="https://instagram.com/"
+              ><i class="fab fa-instagram"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </footer>
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"

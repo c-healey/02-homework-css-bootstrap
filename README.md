@@ -22,17 +22,40 @@ edit autoexec.bat
 
 ## Usage example
 
-THes pages can be used as an example of how to complete your homework assignment for Week 2. Replace the images and fill in your personal information. Modify it to make it your own. Pull it apart and look up each component in the getbootstrap docs.
+These pages can be used as an example of how to complete your homework assignment for Week 2. Replace the images and fill in your personal information. Modify it to make it your own. Pull it apart and look up each component in the getbootstrap docs.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+\_For more examples and usage, please refer to the the course files on gitlab
 
 ## Development setup
 
-To install, clone or download this repo. Drag the index.html file to a browser tab.
-There is no test suite for these pages.
+This example is here to help you learn CSS and bootstrap. I encourage ou to add the bonus features. It should be used as a suppliment to the homework files on gitlab and documentation on https://getbootstrap.com.
+Fonts can be found on https://fonts.google.com
+copyright free images on https://unsplash.com or you may use your own.
+There's a nice README.md template on https://github.com/dbader/readme-template
 
-Create you own repo on github to store and track you changes.  
-set the remote repo to your new project repo with
+### Minimum Requirements for a passing grade (copied from the homework readme)
+
+- Functional, deployed application
+
+- GitHub repository with README describing the project
+
+- Navbar must be consistent on each page.
+
+- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+
+- All links must work.
+
+- Must use semantic html.
+
+- Each page must have valid and correct HTML. (use a validation service)
+
+- Must contain your personalized information. (bio, name, images, links to social media, etc.)
+
+- Must properly utilize Bootstrap components and grid system.
+
+### Bonus
+
+- Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
 
 ## Release History
 
