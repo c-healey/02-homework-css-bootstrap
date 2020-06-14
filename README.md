@@ -77,7 +77,7 @@ Submit your homework on BCS with the github repo and live URL
   - scroll down to GitHub Pages and select 'master branch' as the source
   - the setting page will refresh, scroll down to GitHub Pages and click on the live site URL.
 
-  Cogratulations, you have a live site to share with firends and family.
+  Congratulations, you have a live site to share with friends and family.
 
 ## How to access your Homework assignment and starter files
 
