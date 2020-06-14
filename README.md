@@ -65,20 +65,31 @@ This example is an aid and supplement to homework files to help you learn CSS an
 ## How to submit your homework
 
 - Github
-  -- Create a Homework-XX Repo (XX = the homework assignment number)
-  -- Select the clone button and copy the git url to your clipboard
+  - create a Homework-XX Repo (XX = the homework assignment number)
+  - select the clone button and copy the git url to your clipboard
 - Terminal
-  -- cd to your homework directory
-  -- git clone (paste in git url)
+  - cd to your homework directory
+  - git clone (paste in git url)
 
 Now you have an empty local repo to copy the homework starter files into. You should work on your homework in this directory and stage, commit and push often.
+
+Submit your homework on BCS with the github repo and live URL
+
+### How to 'launch' your page
+
+- Github
+  - click on your image at the top right of page and select 'Your repositories'
+  - click on your homework repo
+  - click 'Settings'
+  - scroll down to GitHub Pages and select 'master branch' as the source
 
 ## How to access your Homework assignment and starter files
 
 -Terminal
--- cd to your gitlab coursework repo
--- git pull
--- copy starter files to your github homework repo folder.
+
+- cd to your gitlab coursework repo
+- git pull
+- copy starter files to your github homework repo folder.
 
 ## Release History
 
